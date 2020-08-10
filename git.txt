@@ -1,0 +1,45 @@
+Configuration git
+
+
+git config --global user.name "Georg Froehlich"
+git config --global user.email "froehlich.grg@gmail.com"
+git config --global color.ui true
+
+----- Init git repo
+
+git init
+
+----- Check status
+
+git status - check status
+
+
+----- create file
+
+touch README.md
+
+----- Add file to git
+
+git add README.md
+git add .
+git add *.txt
+git add someDir/
+
+
+----- Create commit
+
+git commit -m "first commit"
+
+----- Add remote to local repo
+
+git remote add origin https://git.butyrin.net/xen/git-experiments.git
+
+
+----- Push to remote repo
+
+git push -u origin master
+
+
+----- 
+
+git diff
