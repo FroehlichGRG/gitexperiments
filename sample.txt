@@ -1,4 +1,8 @@
+<<<<<<< HEAD
 Some changes !!!!qweqweqwe
 qweqweqwe
 qweqweqwe
 wertwert
+=======
+Some changes !!!!
+>>>>>>> 717cd9a92aee51f36794a5ab8c6274db43c05f7b
